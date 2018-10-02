@@ -1,4 +1,5 @@
 // LinkedList.cpp
+// Yikai Peng (edit)
 
 // tom bailey   0745  5 oct 2010
 // Definition of methods for the List class.
